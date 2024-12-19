@@ -6,6 +6,3 @@ pytest>=6.0.0
 scipy>=1.7.0
 seaborn>=0.11.0
 sphinx>=4.0.0
-sphinx-autodoc>=1.0.0
-sphinx-napoleon>=0.7
-sphinx-viewcode>=1.0
